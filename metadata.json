@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "Download videos from YouTube, Instagram, and TikTok by pasting their URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
